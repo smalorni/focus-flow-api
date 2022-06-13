@@ -1,12 +1,12 @@
 {
-"users": [
+    "users": [
     {
         "name": "Tyler Bane",
         "email": "BaneTy12@gmail.com",
         "id": 1
     }
 ],
-"sessions": [
+    "sessions": [
     {
         "id": 1,
         "date": "07-06-2022",
