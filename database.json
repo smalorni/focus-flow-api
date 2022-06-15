@@ -1,105 +1,119 @@
 {
-    "users": [
+  "users": [
     {
-        "name": "Tyler Bane",
-        "email": "BaneTy12@gmail.com",
-        "id": 1
+      "name": "Tyler Bane",
+      "email": "BaneTy12@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Pam Griffin",
+      "email": "GriffinP@gmail.com",
+      "id": 2
     }
-],
-    "sessions": [
+  ],
+  "sessions": [
     {
-        "id": 1,
-        "date": "07-06-2022",
-        "location": "West Pavilion Park - Chicago, Illinois",
-        "clientName": "Bobby Walsh and Jennifer Davidson",
-        "email": "Walsh_Davidson@gmail.com",
-        "eventTypeId": 3,
-        "notes": "Bring 50mm lens, take some shots by the water fountain",
-        "userId": 1
+      "id": 1,
+      "date": "8/12/2023",
+      "location": "West Pavilion Park - Chicago, Illinois",
+      "clientName": "Bobby Walsh and Jennifer Davidson",
+      "email": "Walsh_Davidson@gmail.com",
+      "eventTypeId": 3,
+      "notes": "Bring 50mm lens, take some shots by the water fountain",
+      "userId": 1
     },
     {
-        "id": 2,
-        "date": "08-18-2022",
-        "location": "Central Park - New York City, New York",
-        "clientName": "Rebecca Lane",
-        "email": "Model_Lane_NYC2@gmail.com",
-        "eventTypeId": 4,
-        "notes": "Bring all lens. Client wants black and white headshots.",
-        "userId": 1
+      "id": 2,
+      "date": "8/18/2022",
+      "location": "Central Park - New York City, New York",
+      "clientName": "Rebecca Lane",
+      "email": "Model_Lane_NYC2@gmail.com",
+      "eventTypeId": 4,
+      "notes": "Bring all lens. Client wants black and white headshots.",
+      "userId": 1
     },
     {
-        "id": 3,
-        "date": "09-20-2022",
-        "location": "Left Foot Charley in Traverse City, Michigan",
-        "clientName": "Curtis Scott and Nicole Parish",
-        "email": "Scott_Nicole_Wedding@comcast.com",
-        "eventTypeId": 1,
-        "notes": "250 guests attending, need a 2nd shooter to assist - maybe ask Jeff",
-        "userId": 1
+      "id": 3,
+      "date": "9/22/2022",
+      "location": "Left Foot Charley in Traverse City, Michigan",
+      "clientName": "Curtis Scott and Nicole Parish",
+      "email": "Scott_Nicole_Wedding@comcast.com",
+      "eventTypeId": 1,
+      "notes": "250 guests attending, need a 2nd shooter to assist - maybe ask Jeff",
+      "userId": 1
     },
     {
-        "id": 4,
-        "date": "10-31-2022",
-        "location": "Monster's Ball at Nine Club in Detroit, Michigan",
-        "clientName": "Kyle Richardson",
-        "email": "KylesHalloweenNine@gmail.com",
-        "eventTypeId": 2,
-        "notes": "Halloween's event, owner wants photos to post on social media to promote event for 2023",
-        "userId": 1
+      "id": 4,
+      "date": "10/31/2022",
+      "location": "Monster's Ball at Nine Club in Detroit, Michigan",
+      "clientName": "Kyle Richardson",
+      "email": "KylesHalloweenNine@gmail.com",
+      "eventTypeId": 2,
+      "notes": "Halloween's event, owner wants photos to post on social media to promote event for 2023",
+      "userId": 1
     },
     {
-        "id": 5,
-        "date": "11-02-2022",
-        "location": "Ashton's House in Cleveland, Ohio",
-        "clientName": "Pam Goodman",
-        "email": "PamGoodman300@gmail.com",
-        "eventTypeId": 5,
-        "notes": "Baby Hannah's 2nd birthday party. Wants a family shot together.",
-        "userId": 1
+      "id": 5,
+      "date": "11/01/2022",
+      "location": "Ashton's House in Cleveland, Ohio",
+      "clientName": "Pam Goodman",
+      "email": "PamGoodman300@gmail.com",
+      "eventTypeId": 5,
+      "notes": "Baby Hannah's 2nd birthday party. Wants a family shot together.",
+      "userId": 1
     },
     {
-        "id": 6,
-        "date": "12-01-2022",
-        "location": "Murphey's Dog Park in Chicago, Illinois",
-        "clientName": "Kim Mull",
-        "email": "Kim_Mull_@Paws.com",
-        "eventTypeId": 8,
-        "notes": "Bring treats. 3 Dogs: A Rottweiler, Pug and a Poodle. Owner wants  group and individual shots.",
-        "userId": 1
+      "id": 6,
+      "date": "8/15/2022",
+      "location": "Murphey's Dog Park in Chicago, Illinois",
+      "clientName": "Kim Mull",
+      "email": "Kim_Mull_@Paws.com",
+      "eventTypeId": 8,
+      "notes": "Bring treats. 3 Dogs: A Rottweiler, Pug and a Poodle. Owner wants  group and individual shots.",
+      "userId": 1
+    },
+    {
+      "date": "7/20/2022",
+      "location": "St. Nicholas Church in Boston, MA",
+      "clientName": "Rosemary and John Williams",
+      "email": "WilliamsBoston@yahoo.com",
+      "eventTypeId": 1,
+      "notes": "250 Guests attending.",
+      "id": 7
     }
-],
-    "eventTypes": [
+  ],
+  "eventTypes": [
     {
-        "id": 1,
-        "type": "Wedding"
+      "id": 1,
+      "eventType": "Wedding"
     },
     {
-        "id": 2,
-        "type": "Holidays"
+      "id": 2,
+      "eventType": "Holidays"
     },
     {
-        "id": 3,
-        "type": "Engagement"
+      "id": 3,
+      "eventType": "Engagement"
     },
     {
-        "id": 4,
-        "type": "Portraits"
+      "id": 4,
+      "eventType": "Portraits"
     },
     {
-        "id": 5,
-        "type": "Family"
+      "id": 5,
+      "eventType": "Family"
     },
     {
-        "id": 6,
-        "type": "Graduation"
+      "id": 6,
+      "eventType": "Graduation"
     },
     {
-        "id": 7,
-        "type": "Corporate"
+      "id": 7,
+      "eventType": "Corporate"
     },
     {
-        "id": 8,
-        "type": "Pets"
+      "id": 8,
+      "eventType": "Pets"
     }
-]
+  ]
 }
