@@ -14,7 +14,7 @@
   "sessions": [
     {
       "id": 1,
-      "date": "8/12/2023",
+      "date": "2022-06-18",
       "location": "West Pavilion Park - Chicago, Illinois",
       "clientName": "Bobby Walsh and Jennifer Davidson",
       "email": "Walsh_Davidson@gmail.com",
@@ -33,16 +33,6 @@
       "userId": 1
     },
     {
-      "id": 3,
-      "date": "9/22/2022",
-      "location": "Left Foot Charley in Traverse City, Michigan",
-      "clientName": "Curtis Scott and Nicole Parish",
-      "email": "Scott_Nicole_Wedding@comcast.com",
-      "eventTypeId": 1,
-      "notes": "250 guests attending, need a 2nd shooter to assist - maybe ask Jeff",
-      "userId": 1
-    },
-    {
       "id": 4,
       "date": "10/31/2022",
       "location": "Monster's Ball at Nine Club in Detroit, Michigan",
@@ -53,33 +43,40 @@
       "userId": 1
     },
     {
-      "id": 5,
-      "date": "11/01/2022",
-      "location": "Ashton's House in Cleveland, Ohio",
-      "clientName": "Pam Goodman",
-      "email": "PamGoodman300@gmail.com",
-      "eventTypeId": 5,
-      "notes": "Baby Hannah's 2nd birthday party. Wants a family shot together.",
-      "userId": 1
+      "date": "11/28/2022",
+      "location": "Bergman's House in Cleveland, Ohio",
+      "clientName": "Julie Bergman",
+      "email": "MamaBergman@gmail.com",
+      "eventTypeId": 2,
+      "notes": "Christmas family session",
+      "id": 5
     },
     {
-      "id": 6,
-      "date": "8/15/2022",
-      "location": "Murphey's Dog Park in Chicago, Illinois",
-      "clientName": "Kim Mull",
-      "email": "Kim_Mull_@Paws.com",
-      "eventTypeId": 8,
-      "notes": "Bring treats. 3 Dogs: A Rottweiler, Pug and a Poodle. Owner wants  group and individual shots.",
-      "userId": 1
+      "date": "6/23/2022",
+      "location": "Sears Towers in Chicago, Illinois",
+      "clientName": "Hannah and Misty Wells",
+      "email": "Wells2@gmail.com",
+      "eventTypeId": 4,
+      "notes": "100 guests",
+      "id": 6
     },
     {
-      "date": "7/20/2022",
-      "location": "St. Nicholas Church in Boston, MA",
-      "clientName": "Rosemary and John Williams",
-      "email": "WilliamsBoston@yahoo.com",
-      "eventTypeId": 1,
-      "notes": "250 Guests attending.",
+      "date": "7/1/2022",
+      "location": "Times Square, Manhattan, New York",
+      "clientName": "Jackson Brost",
+      "email": "Brostjackson@gmail.com",
+      "eventTypeId": 4,
+      "notes": "N/A",
       "id": 7
+    },
+    {
+      "date": "1/4/2023",
+      "location": "Panama City Beach, Florida",
+      "clientName": "Rachel and Josh Hursell",
+      "email": "HursellJ@gmail.com",
+      "eventTypeId": 3,
+      "notes": "25 guests attending",
+      "id": 8
     }
   ],
   "eventTypes": [
