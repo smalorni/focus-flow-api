@@ -6,38 +6,86 @@
       "id": 1
     },
     {
-      "name": "Pam Griffin",
-      "email": "GriffinP@gmail.com",
+      "name": "Dylan Coleman",
+      "email": "Coleman23@yahoo.com",
       "id": 2
+    },
+    {
+      "name": "Dan Sutton",
+      "email": "DSutton@gmail.com",
+      "id": 3
     }
   ],
   "sessions": [
     {
-      "date": "2022-06-29",
-      "location": "New york",
-      "clientName": "John Jackson",
-      "email": "Jack@gmail.com",
-      "eventTypeId": 4,
-      "notes": "Bring family",
-      "id": 1
-    },
-    {
-      "date": "2022-08-20",
-      "location": "Dune Beach in Michigan",
-      "clientName": "Tyler Hunner",
-      "email": "Hunner@gmail.com",
-      "eventTypeId": 4,
-      "notes": "Model session",
-      "id": 2
-    },
-    {
-      "date": "2022-08-27",
-      "location": "Moss Park in Chicago, Illinois",
-      "clientName": "Michelle and Steve Baughman",
-      "email": "BaughmanMS@gmail.com",
+      "date": "2022-07-01",
+      "location": "Queens, New York",
+      "clientName": "Michael Path",
+      "email": "MichaelPathModeling_2@gmail.com",
       "eventTypeId": 5,
-      "notes": "4 guests",
-      "id": 3
+      "notes": "Wants black and white headshots.",
+      "id": 1,
+      "userId": 1
+    },
+    {
+      "date": "2022-10-01",
+      "location": "Fender Boardwalk in Chicago, Illinois",
+      "clientName": "Sean Acker",
+      "email": "AckerSkateboard@gmail.com",
+      "eventTypeId": 8,
+      "notes": "Skateboarding competitions",
+      "id": 2,
+      "userId": 1
+    },
+    {
+      "date": "2022-10-31",
+      "location": "Monster's Ball in Detroit, Michigan",
+      "clientName": "DJ Kyle Richardson",
+      "email": "DJKyleRich3@yahoo.com",
+      "eventTypeId": 3,
+      "notes": "Estimated 350 guests attending. Masquerade-theme ball. Need to ask Frank to assist as 2nd shooter.",
+      "id": 3,
+      "userId": 2
+    },
+    {
+      "date": "2022-09-03",
+      "location": "Vinny's Bakery in Brooklyn, New York",
+      "clientName": "Vinzento Malorni",
+      "email": "Vmalorni@outlook.com",
+      "eventTypeId": 6,
+      "notes": "Family Reunion",
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "date": "2022-07-09",
+      "location": "Test 1",
+      "clientName": "Test 1",
+      "email": "Test@gmail.com",
+      "eventTypeId": 4,
+      "notes": "Test",
+      "userId": 1,
+      "id": 5
+    },
+    {
+      "date": "2022-07-30",
+      "location": "Test 4",
+      "clientName": "Test 4",
+      "email": "Test4@aol.com",
+      "eventTypeId": 9,
+      "notes": "Test 4",
+      "userId": 2,
+      "id": 7
+    },
+    {
+      "date": "2022-07-09",
+      "location": "Tesst 5",
+      "clientName": "Test 5",
+      "email": "Test5@aol.com",
+      "eventTypeId": 10,
+      "notes": "Test 5",
+      "userId": 3,
+      "id": 8
     }
   ],
   "eventTypes": [
@@ -47,31 +95,39 @@
     },
     {
       "id": 2,
-      "eventType": "Holidays"
+      "eventType": "Christmas"
     },
     {
       "id": 3,
-      "eventType": "Engagement"
+      "eventType": "Halloween"
     },
     {
       "id": 4,
-      "eventType": "Portraits"
+      "eventType": "Engagement"
     },
     {
       "id": 5,
-      "eventType": "Family"
+      "eventType": "Portraits"
     },
     {
       "id": 6,
-      "eventType": "Graduation"
+      "eventType": "Family"
     },
     {
       "id": 7,
-      "eventType": "Corporate"
+      "eventType": "Graduation"
     },
     {
       "id": 8,
+      "eventType": "Corporate"
+    },
+    {
+      "id": 9,
       "eventType": "Pets"
+    },
+    {
+      "id": 10,
+      "eventType": "Food/Beverage"
     }
   ]
 }
