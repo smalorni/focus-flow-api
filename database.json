@@ -18,26 +18,6 @@
   ],
   "sessions": [
     {
-      "date": "2022-07-01",
-      "location": "Queens, New York",
-      "clientName": "Michael Path",
-      "email": "MichaelPathModeling_2@gmail.com",
-      "eventTypeId": 5,
-      "notes": "Wants black and white headshots.",
-      "id": 1,
-      "userId": 1
-    },
-    {
-      "date": "2022-10-01",
-      "location": "Fender Boardwalk in Chicago, Illinois",
-      "clientName": "Sean Acker",
-      "email": "AckerSkateboard@gmail.com",
-      "eventTypeId": 8,
-      "notes": "Skateboarding competitions",
-      "id": 2,
-      "userId": 1
-    },
-    {
       "date": "2022-10-31",
       "location": "Monster's Ball in Detroit, Michigan",
       "clientName": "DJ Kyle Richardson",
@@ -51,29 +31,19 @@
       "date": "2022-09-03",
       "location": "Vinny's Bakery in Brooklyn, New York",
       "clientName": "Vinzento Malorni",
-      "email": "Vmalorni@outlook.com",
+      "email": "VinzentoMalorni@outlook.com",
       "eventTypeId": 6,
-      "notes": "Family Reunion",
+      "notes": "Family reunion at the bakery. 45 guests attending. ",
       "userId": 1,
       "id": 4
     },
     {
-      "date": "2022-07-09",
-      "location": "Test 1",
-      "clientName": "Test 1",
-      "email": "Test@gmail.com",
-      "eventTypeId": 4,
-      "notes": "Test",
-      "userId": 1,
-      "id": 5
-    },
-    {
-      "date": "2022-07-30",
-      "location": "Test 4",
-      "clientName": "Test 4",
-      "email": "Test4@aol.com",
+      "date": "2022-11-11",
+      "location": "Hell's Kitchen in New York City, New York",
+      "clientName": "Jose Hernandez",
+      "email": "JHernandez_hellskitchen@gmail.com",
       "eventTypeId": 9,
-      "notes": "Test 4",
+      "notes": "Owner preparing for a grand opening event, needs photos for menu.",
       "userId": 2,
       "id": 7
     },
@@ -86,48 +56,73 @@
       "notes": "Test 5",
       "userId": 3,
       "id": 8
+    },
+    {
+      "date": "2022-08-01",
+      "location": "Central Park in New York City, New York",
+      "clientName": "Stephanie Brown",
+      "email": "StepBrown@yahoo.com",
+      "eventTypeId": 5,
+      "notes": "Entering a contest for best female tattooed model. ",
+      "userId": 1,
+      "id": 9
+    },
+    {
+      "date": "2022-09-24",
+      "location": "St. Nicholas Church in Cleveland, Ohio",
+      "clientName": "Nick Brosen and Danielle McCormick",
+      "email": "Brosen_and_Dani_wedding2022@wedding.com",
+      "eventTypeId": 1,
+      "notes": "Indoor church wedding with 250 guests attending. Reception is outdoors. Might need a 2nd shooter to assist. ",
+      "userId": 1,
+      "id": 10
     }
   ],
   "eventTypes": [
     {
       "id": 1,
-      "eventType": "Wedding"
+      "eventType": "Wedding",
+      "img_url": "https://images.unsplash.com/photo-1535185384036-28bbc8035f28?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80"
     },
     {
       "id": 2,
-      "eventType": "Christmas"
+      "eventType": "Christmas",
+      "img_url": "https://images.pexels.com/photos/3303613/pexels-photo-3303613.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
     },
     {
       "id": 3,
-      "eventType": "Halloween"
+      "eventType": "Halloween",
+      "img_url": "https://images.pexels.com/photos/5784070/pexels-photo-5784070.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
     },
     {
       "id": 4,
-      "eventType": "Engagement"
+      "eventType": "Engagement",
+      "img_url": "https://images.unsplash.com/photo-1542286777-b6499aa99a0a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
     },
     {
       "id": 5,
-      "eventType": "Portraits"
+      "eventType": "Portraits",
+      "img_url": "https://images.unsplash.com/photo-1485463598028-44d6c47bf23f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=898&q=80"
     },
     {
       "id": 6,
-      "eventType": "Family"
+      "eventType": "Family",
+      "img_url": "https://images.unsplash.com/photo-1511895426328-dc8714191300?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
     },
     {
       "id": 7,
-      "eventType": "Graduation"
+      "eventType": "Graduation",
+      "img_url": "https://images.pexels.com/photos/7842668/pexels-photo-7842668.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
     },
     {
       "id": 8,
-      "eventType": "Corporate"
+      "eventType": "Pets",
+      "img_url": "https://images.unsplash.com/photo-1532616934112-95f7d1d49e8c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
     },
     {
       "id": 9,
-      "eventType": "Pets"
-    },
-    {
-      "id": 10,
-      "eventType": "Food/Beverage"
+      "eventType": "Food/Beverage",
+      "img_url": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=960&q=80"
     }
   ]
 }
