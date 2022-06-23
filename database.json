@@ -14,6 +14,11 @@
       "name": "Dan Sutton",
       "email": "DSutton@gmail.com",
       "id": 3
+    },
+    {
+      "name": "Samantha Malorni",
+      "email": "MalorniS@gmail.com",
+      "id": 4
     }
   ],
   "sessions": [
@@ -28,12 +33,12 @@
       "userId": 2
     },
     {
-      "date": "2022-09-03",
-      "location": "Vinny's Bakery in Brooklyn, New York",
-      "clientName": "Vinzento Malorni",
-      "email": "VinzentoMalorni@outlook.com",
+      "date": "2022-10-05",
+      "location": "Vinny's Bakery in Queens, New York",
+      "clientName": "Vinny Malorni",
+      "email": "VinzentoMalorni@gmail.com",
       "eventTypeId": 6,
-      "notes": "Family reunion at the bakery. 45 guests attending. ",
+      "notes": "Family reunion at the bakery. 46 guests attending.",
       "userId": 1,
       "id": 4
     },
@@ -46,16 +51,6 @@
       "notes": "Owner preparing for a grand opening event, needs photos for menu.",
       "userId": 2,
       "id": 7
-    },
-    {
-      "date": "2022-07-09",
-      "location": "Tesst 5",
-      "clientName": "Test 5",
-      "email": "Test5@aol.com",
-      "eventTypeId": 10,
-      "notes": "Test 5",
-      "userId": 3,
-      "id": 8
     },
     {
       "date": "2022-08-01",
@@ -76,6 +71,56 @@
       "notes": "Indoor church wedding with 250 guests attending. Reception is outdoors. Might need a 2nd shooter to assist. ",
       "userId": 1,
       "id": 10
+    },
+    {
+      "date": "2022-12-11",
+      "location": "Bailey's Family Home in Cleveland, Ohio",
+      "clientName": "Joanne and Bill West",
+      "email": "WashingtonFamily@gmail.com",
+      "eventTypeId": 2,
+      "notes": "Wants a family photo session for Christmas cards.",
+      "userId": 1,
+      "id": 12
+    },
+    {
+      "date": "2022-10-29",
+      "location": "Masquerade Nightclub in Detroit, Michigan",
+      "clientName": "Joe Adana",
+      "email": "MasqueradeNightclub@yahoo.com",
+      "eventTypeId": 3,
+      "notes": "Masquerade-themed party, expecting 450 guests. Might need to ask Evan to assist as 2nd shooter. ",
+      "userId": 1,
+      "id": 13
+    },
+    {
+      "date": "2022-12-21",
+      "location": "Lyon's Family in Nashville, Tennessee",
+      "clientName": "Rebecca and Tim Lyons",
+      "email": "RTLyons@gmail.com",
+      "eventTypeId": 2,
+      "notes": "Bring 50mm lens, wants a family shot in front of the lit tree. ",
+      "userId": 2,
+      "id": 14
+    },
+    {
+      "date": "2022-10-08",
+      "location": "Dogs Bow Wow Event in Chicago, Illinois",
+      "clientName": "Janet Hoover",
+      "email": "HooverBowWow@yahoo.com",
+      "eventTypeId": 8,
+      "notes": "Dog competition from 12pm-6pm. ",
+      "userId": 2,
+      "id": 15
+    },
+    {
+      "date": "2022-06-30",
+      "location": "St. Nicholas Church in Novi, Michigan",
+      "clientName": "Robert Johnson and Kim Dowls",
+      "email": "Johnson_and_Dowls_2022@wedding.com",
+      "eventTypeId": 1,
+      "notes": "249 guests RSVP'd. Nicole will assist as my second shooter. ",
+      "userId": 2,
+      "id": 16
     }
   ],
   "eventTypes": [
@@ -123,6 +168,56 @@
       "id": 9,
       "eventType": "Food/Beverage",
       "img_url": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=960&q=80"
+    }
+  ],
+  "boards": [
+    {
+      "url": "https://images.pexels.com/photos/4841962/pexels-photo-4841962.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "comments": "Middle-school teens asked if I could do 1980s \"Stranger Things\" theme photo session at Arcade downtown.",
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1513279922550-250c2129b13a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+      "comments": "This would be a good idea for beach engagement photos.",
+      "userId": 2,
+      "id": 4
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1624991265680-62e09cb90acb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y3J5c3RhbCUyMGJhbGwlMjBwaG90b2dyYXBoeXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+      "comments": "Outdoors crystal ball photography",
+      "userId": 2,
+      "id": 5
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1506891536236-3e07892564b7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=776&q=80",
+      "comments": "Nice cat pose",
+      "userId": 2,
+      "id": 6
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1599065157038-f1e69ecab3a1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80",
+      "comments": "Need to buy macro lens for close-up shots, for the butterflies release show next month.",
+      "userId": 2,
+      "id": 7
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1526336024174-e58f5cdd8e13?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+      "comments": "Would love a photo of this.",
+      "userId": 1,
+      "id": 8
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+      "comments": "Like the backdrop for portrait",
+      "userId": 1,
+      "id": 9
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+      "comments": "Stop along Route 66 and take a photo like this.",
+      "userId": 1,
+      "id": 10
     }
   ]
 }
