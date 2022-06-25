@@ -19,6 +19,11 @@
       "name": "Samantha Malorni",
       "email": "MalorniS@gmail.com",
       "id": 4
+    },
+    {
+      "name": "Dallas James",
+      "email": "JamesD@gmail.com",
+      "id": 5
     }
   ],
   "sessions": [
@@ -33,16 +38,6 @@
       "userId": 2
     },
     {
-      "date": "2022-10-05",
-      "location": "Vinny's Bakery in Queens, New York",
-      "clientName": "Vinny Malorni",
-      "email": "VinzentoMalorni@gmail.com",
-      "eventTypeId": 6,
-      "notes": "Family reunion at the bakery. 46 guests attending.",
-      "userId": 1,
-      "id": 4
-    },
-    {
       "date": "2022-11-11",
       "location": "Hell's Kitchen in New York City, New York",
       "clientName": "Jose Hernandez",
@@ -51,16 +46,6 @@
       "notes": "Owner preparing for a grand opening event, needs photos for menu.",
       "userId": 2,
       "id": 7
-    },
-    {
-      "date": "2022-08-01",
-      "location": "Central Park in New York City, New York",
-      "clientName": "Stephanie Brown",
-      "email": "StepBrown@yahoo.com",
-      "eventTypeId": 5,
-      "notes": "Entering a contest for best female tattooed model. ",
-      "userId": 1,
-      "id": 9
     },
     {
       "date": "2022-09-24",
@@ -121,6 +106,86 @@
       "notes": "249 guests RSVP'd. Nicole will assist as my second shooter. ",
       "userId": 2,
       "id": 16
+    },
+    {
+      "date": "2022-11-04",
+      "location": "Destin Beach in Destin, Florida",
+      "clientName": "Ray Powell and Kelly Nestle",
+      "email": "PowellNestle@wedding.com",
+      "eventTypeId": 1,
+      "notes": "Outdoor beach wedding, be prepared for any weather. ",
+      "userId": 4,
+      "id": 18
+    },
+    {
+      "date": "2022-08-27",
+      "location": "Hilton Hotel in Louisville, Kentucky",
+      "clientName": "Jacob and Molly Franc",
+      "email": "FrancJM1220@outlook.com",
+      "eventTypeId": 6,
+      "notes": "Franc family reunion, will be celebrating grandparents' 25th wedding anniversary as well.",
+      "userId": 4,
+      "id": 19
+    },
+    {
+      "date": "2022-10-01",
+      "location": "Camp Bow Wow in Chicago, Illinois",
+      "clientName": "Denise and Bob Sugarmen",
+      "email": "CampBowWow1220@yahoo.com",
+      "eventTypeId": 8,
+      "notes": "Expecting 200 dog owners, owner wants me to bring doggie photo booth.",
+      "userId": 4,
+      "id": 20
+    },
+    {
+      "date": "2022-08-27",
+      "location": "Camp Bow Wow in Chicago, Illinois",
+      "clientName": "John Sugarman and Luke West",
+      "email": "CampBowWowIL@gmail.com",
+      "eventTypeId": 8,
+      "notes": "Expecting 200 dog owners, fundraiser to raise money to train puppies into service dogs",
+      "userId": 1,
+      "id": 21
+    },
+    {
+      "date": "2022-06-04",
+      "location": "Breakfast Hipster in East Nashville, Tennessee",
+      "clientName": "James Reed",
+      "email": "BreakfastHipster@gmail.com",
+      "eventTypeId": 9,
+      "notes": "Wants photos of grand opening, expect 250 people",
+      "userId": 1,
+      "id": 22
+    },
+    {
+      "date": "2022-10-29",
+      "location": "Masquerade Palace in Detroit, Michigan",
+      "clientName": "Kyle Richardson",
+      "email": "MasqueradeBallHalloween2022@gmail.com",
+      "eventTypeId": 3,
+      "notes": "Masquerade-themed event, expecting 250 guests. Need to ask Tyler and Jess to assist? ",
+      "userId": 4,
+      "id": 23
+    },
+    {
+      "date": "2023-06-04",
+      "location": "Georgia Tech in Atlanta, Georgia ",
+      "clientName": "Matthew Jolie",
+      "email": "GTGrad2023@GTU.edu",
+      "eventTypeId": 7,
+      "notes": "University wants photo of class 2023 graduation",
+      "userId": 4,
+      "id": 24
+    },
+    {
+      "date": "2022-11-30",
+      "location": "Killer Pancakes in Chicago, Illinois",
+      "clientName": "Lionel Walters",
+      "email": "KillerPancakesR2Die4@yahoo.com",
+      "eventTypeId": 9,
+      "notes": "Grand opening night, only for staff and their families. Bring 50mm lens. ",
+      "userId": 4,
+      "id": 25
     }
   ],
   "eventTypes": [
@@ -162,7 +227,7 @@
     {
       "id": 8,
       "eventType": "Pets",
-      "img_url": "https://images.unsplash.com/photo-1532616934112-95f7d1d49e8c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+      "img_url": "https://images.unsplash.com/photo-1562176564-0280c730d87c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"
     },
     {
       "id": 9,
@@ -202,14 +267,14 @@
       "id": 7
     },
     {
-      "url": "https://images.unsplash.com/photo-1526336024174-e58f5cdd8e13?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
-      "comments": "Would love a photo of this.",
+      "url": "https://images.pexels.com/photos/979003/pexels-photo-979003.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "comments": "Would love a photo of this. Maybe Zach's cat?",
       "userId": 1,
       "id": 8
     },
     {
       "url": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
-      "comments": "Like the backdrop for portrait",
+      "comments": "Good portrait pose for Kevin",
       "userId": 1,
       "id": 9
     },
@@ -218,6 +283,66 @@
       "comments": "Stop along Route 66 and take a photo like this.",
       "userId": 1,
       "id": 10
+    },
+    {
+      "url": "https://images.pexels.com/photos/14398/pexels-photo-14398.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "comments": "Would love to do a \"Wednesday\" photo session for Halloween. Maybe ask Lucy if she is interested?",
+      "userId": 4,
+      "id": 12
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "comments": "Can I get my pug to do this?",
+      "userId": 4,
+      "id": 13
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1607505234494-b4f46b9482a3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+      "comments": "Great idea for Christmas cards this year",
+      "userId": 1,
+      "id": 15
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1499083773823-5000fa2b23e4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=804&q=80",
+      "comments": "This is good angle for upcoming competition",
+      "userId": 1,
+      "id": 18
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1514429765134-e71cc45f2c51?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+      "comments": "Black and white photography for a baby session.",
+      "userId": 4,
+      "id": 19
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1527672809634-04ed36500acd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNyeXN0YWwlMjBiYWxsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "comments": "Need to experiment with crystal ball photography",
+      "userId": 4,
+      "id": 20
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1569397592162-9400b6893cb1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80",
+      "comments": "Jessie asked for something similar to this for her graduation photo session",
+      "userId": 4,
+      "id": 21
+    },
+    {
+      "url": "https://images.pexels.com/photos/7005668/pexels-photo-7005668.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "comments": "Adam wants a session to promote his tattoo shop. Wants a photo of each artist. ",
+      "userId": 4,
+      "id": 22
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1542301728776-fbf0a92c47e5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+      "comments": "Great idea for wedding session",
+      "userId": 4,
+      "id": 23
+    },
+    {
+      "url": "https://images.pexels.com/photos/6948010/pexels-photo-6948010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "comments": "Need to find this location in SF - great spot for a session",
+      "userId": 4,
+      "id": 25
     }
   ]
 }
