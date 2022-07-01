@@ -118,12 +118,12 @@
       "id": 18
     },
     {
-      "date": "2022-08-27",
+      "date": "2022-08-25",
       "location": "Hilton Hotel in Louisville, Kentucky",
       "clientName": "Jacob and Molly Franc",
       "email": "FrancJM1220@outlook.com",
       "eventTypeId": 6,
-      "notes": "Franc family reunion, will be celebrating grandparents' 25th wedding anniversary as well.",
+      "notes": "Franc family reunion, will be celebrating grandparents' 25th wedding anniversary.",
       "userId": 4,
       "id": 19
     },
@@ -173,7 +173,7 @@
       "clientName": "Matthew Jolie",
       "email": "GTGrad2023@GTU.edu",
       "eventTypeId": 7,
-      "notes": "University wants photo of class 2023 graduation",
+      "notes": "University asked for 2023 class photo - Estimated 780 students graduating.",
       "userId": 4,
       "id": 24
     },
@@ -186,6 +186,26 @@
       "notes": "Grand opening night, only for staff and their families. Bring 50mm lens. ",
       "userId": 4,
       "id": 25
+    },
+    {
+      "date": "2022-12-18",
+      "location": "Davidson's House in Cleveland, Ohio",
+      "clientName": "Tom and Ellen Davidson",
+      "email": "TomandEllenDavidson99@outlook.com",
+      "eventTypeId": 2,
+      "notes": "Family photo session in front of the fireplace and kids in front of the decorated tree. ",
+      "userId": 4,
+      "id": 26
+    },
+    {
+      "date": "2023-03-25",
+      "location": "Central Park in New York City, New York",
+      "clientName": "Stephanie Brown",
+      "email": "StephBrownModel88@yahoo.com",
+      "eventTypeId": 5,
+      "notes": "Entered \"Most Inked\" modeling competition, needs updated headshots to send to agent",
+      "userId": 4,
+      "id": 27
     }
   ],
   "eventTypes": [
@@ -286,13 +306,13 @@
     },
     {
       "url": "https://images.pexels.com/photos/14398/pexels-photo-14398.jpeg?auto=compress&cs=tinysrgb&w=400",
-      "comments": "Would love to do a \"Wednesday\" photo session for Halloween. Maybe ask Lucy if she is interested?",
+      "comments": "Would love to do a \"Wednesday\" photo session for Halloween. Ask Lucy if she is interested?",
       "userId": 4,
       "id": 12
     },
     {
       "url": "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-      "comments": "Can I get my pug to do this?",
+      "comments": "Can I get my pug to do this? ",
       "userId": 4,
       "id": 13
     },
@@ -334,15 +354,15 @@
     },
     {
       "url": "https://images.unsplash.com/photo-1542301728776-fbf0a92c47e5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
-      "comments": "Great idea for wedding session",
+      "comments": "Great idea for wedding group session",
       "userId": 4,
       "id": 23
     },
     {
-      "url": "https://images.pexels.com/photos/6948010/pexels-photo-6948010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "comments": "Need to find this location in SF - great spot for a session",
+      "url": "https://images.unsplash.com/photo-1514136649217-b627b4b9cfb2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1364&q=80",
+      "comments": "❤️ ❤️  this portrait idea! ",
       "userId": 4,
-      "id": 25
+      "id": 24
     }
   ]
 }
